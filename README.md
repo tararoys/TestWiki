@@ -20,6 +20,10 @@ Clicking these links should drop you into a content editor in your browser:
 
 ![screenshot prose editor](media/prose_editor.png)
 
+Before you can use prose.io, you have to have a github account and you need to authorize prose.io to link to your github account.  If you don't have a github account, make one.  Once you have one, in the lower right-hand corner of the prose editor is a button that when you hover on it will say something about authorizing prose.io to have access to your github.  To make prose.io work, you have to grand this authorization, so click on it and follow the instructions.  There are about three screens and a couple of things it asks you to click to make the authorization work.  Do what it says.  
+
+Then you will need to go back to talon.wiki, click on the prose.io link, and start editing.   Now, when you click on the save icon, the documentation you wrote will be submitted to the wiki, and somebody with permissions can look it over and add it.
+
 There's a preview button to see your changes rendered in markdown:
 
 ![screenshot prose preview](media/prose_preview.png)
